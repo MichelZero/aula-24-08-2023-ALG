@@ -1,3 +1,8 @@
+#
+# autores: Cristiano, Michel
+# data: 24/08/2023
+
+
 #matriz
 m1 = [[1,2,3],[4,5,6],[7,8,9]]
 #ou                    #ij ij ij
